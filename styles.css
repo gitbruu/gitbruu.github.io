@@ -1,0 +1,14 @@
+*,*::before, *::after{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {font-family: "Roboto", sans-serif}
+body{ 
+    background: radial-gradient(rgba(43,55,96,1), rgba(11,16,35,1));
+    color: white;
+    margin: 5%;
+}
+p{
+    padding: 20px 0 10px 0;
+}
